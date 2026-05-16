@@ -1,0 +1,7 @@
+country,skus,total_revenue,total_units,avg_stockout_rate,reorder_now,stockout_skus,overstock_skus
+Germany,98,52966750.75,7165795,0.03,208,0,0
+Austria,80,43020025.97,5742174,0.031,171,0,0
+France,80,42601612.57,6014974,0.031,164,0,1
+Poland,80,42385262.52,5860180,0.03,176,0,4
+Spain,100,40825952.31,5547641,0.029,191,0,7
+Italy,102,39547083.11,5440127,0.03,191,0,7
